@@ -13,7 +13,7 @@
     "content_scripts": [
       {
         "matches": ["*://*.washington.edu/myplan/*"],
-        "js": ["content.js"],
+        "js": ["courseData.js", "content.js"],
         "css": ["styles.css"]
       }
     ],
