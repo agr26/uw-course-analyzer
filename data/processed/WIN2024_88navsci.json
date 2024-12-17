@@ -1,0 +1,154 @@
+[
+  {
+    "department": "N SCI",
+    "number": "102HIST US",
+    "title": "SEAPWR I",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "N SCI",
+    "number": "110N SCI",
+    "title": "LABORATORY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "N SCI",
+    "number": "115MARINE CORPS",
+    "title": "OTE",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "N SCI",
+    "number": "202NAVIGATION",
+    "title": "I",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "N SCI",
+    "number": "302NAVAL SHIP",
+    "title": "SYST II",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "N SCI",
+    "number": "402NVL LDRSHP",
+    "title": "& ETHICS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

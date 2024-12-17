@@ -1,0 +1,164 @@
+[
+  {
+    "department": "HSTAA",
+    "number": "110AMERICAN CITIZENSHI",
+    "title": "P",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAA",
+    "number": "210AMER INDIAN",
+    "title": "HSTRY II",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1030",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAA",
+    "number": "231RACE",
+    "title": ": AMER HISTORY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "ENGL",
+        "room": "298",
+        "instructor": "A.AUDITORS NOT PERMITTED INTHIS COURSE.",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAA",
+    "number": "301COLONIAL N",
+    "title": ". AMERICA",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1230",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAA",
+    "number": "334CVL RTS",
+    "title": "& BLK POWER",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1230",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAA",
+    "number": "345BUS",
+    "title": "& POL MOD AMERCA",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MWF",
+        "room": "100",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

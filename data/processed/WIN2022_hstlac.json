@@ -1,0 +1,53 @@
+[
+  {
+    "department": "HSTLAC",
+    "number": "280DRUG WARS",
+    "title": "LAT AMERCA",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTLAC",
+    "number": "325MODERN MEXIC",
+    "title": "O",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1030",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTLAC",
+    "number": "583SMNR LAT",
+    "title": "AMER HIST",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

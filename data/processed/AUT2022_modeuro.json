@@ -1,0 +1,80 @@
+[
+  {
+    "department": "HSTEU",
+    "number": "27420TH CENT",
+    "title": "EURO FILM",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTEU",
+    "number": "402THE REFORMATIO",
+    "title": "N",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "130",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTEU",
+    "number": "451E C",
+    "title": "E SINCE 1342",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTEU",
+    "number": "490TOPICS EUR",
+    "title": "HIST",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  }
+]

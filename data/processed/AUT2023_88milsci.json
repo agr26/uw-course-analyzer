@@ -1,0 +1,201 @@
+[
+  {
+    "department": "M SCI",
+    "number": "101MIL SCI",
+    "title": "LDR DEV",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "930",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "130",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1230",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "M SCI",
+    "number": "110LEADERSHIP LA",
+    "title": "B",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "M SCI",
+    "number": "201MIL SCI",
+    "title": "TM LDR",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1130",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "M SCI",
+    "number": "301MIL SCI",
+    "title": "TEAC LDR",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1030",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1230",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "M SCI",
+    "number": "305TECH MILITARY",
+    "title": "INSTR",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "500",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "M SCI",
+    "number": "310ADV LEADERSHIP",
+    "title": "LAB",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "M SCI",
+    "number": "401MIL SCI",
+    "title": "DEV LDR",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

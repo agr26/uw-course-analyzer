@@ -1,0 +1,172 @@
+[
+  {
+    "department": "HSTAS",
+    "number": "212HIST OF",
+    "title": "KOREAN CIV",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1030",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAS",
+    "number": "265THE VIET",
+    "title": "NAM WARS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAS",
+    "number": "402HIST MED",
+    "title": "MUGHAL IND",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1030",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAS",
+    "number": "40420TH CENTURY",
+    "title": "INDIA",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAS",
+    "number": "440JAPAN ECOLOGICL",
+    "title": "HIST",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAS",
+    "number": "456CHINESE SOC",
+    "title": "HISTORY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAS",
+    "number": "490TOPICS ASIAN",
+    "title": "HISTORY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAS",
+    "number": "502SEM HIST",
+    "title": "OF INDIA",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "M      130-320",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAS",
+    "number": "540JAPAN ECOLOGICL",
+    "title": "HIST",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAS",
+    "number": "590TOPICS IN",
+    "title": "ASIAN HST",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

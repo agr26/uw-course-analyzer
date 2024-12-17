@@ -1,0 +1,53 @@
+[
+  {
+    "department": "PORT",
+    "number": "110ACCEL ELEM",
+    "title": "PORTUG",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "PORT",
+        "room": "101",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PORT",
+    "number": "202INTERMEDIATE POR",
+    "title": "T",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "THE",
+        "room": "3RD",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PORT",
+    "number": "365LUSO",
+    "title": "-BRAZILIAN CULTU",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "230",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

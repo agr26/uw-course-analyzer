@@ -1,0 +1,53 @@
+[
+  {
+    "department": "MUSED",
+    "number": "305INTRO MUSIC",
+    "title": "METH II",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1130",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MUSED",
+    "number": "440MUS FOR",
+    "title": "CHILDREN",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MUSED",
+    "number": "496SPEC MUS",
+    "title": "ED TOPICS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "200",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

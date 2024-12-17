@@ -1,0 +1,202 @@
+[
+  {
+    "department": "MED",
+    "number": "499UNDERGRAD RESEARC",
+    "title": "H",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MED",
+    "number": "503CARDIAC ULTRASOUN",
+    "title": "D",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MED",
+    "number": "505PP",
+    "title": "-PRECEP IN MED",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MED",
+    "number": "522INTRO HUM",
+    "title": "MED GEN",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "FROM",
+        "room": "9",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MED",
+    "number": "549CLIN MED",
+    "title": "GENETICS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "WED",
+        "room": "8",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MED",
+    "number": "556VISUAL THINKIN",
+    "title": "G",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "F      1000-1120",
+        "building": "SEP",
+        "room": "23",
+        "instructor": "- NOV 18(NO CLASS NOV 11), FROM 10AM-11:20AAT THE HENRY ART GALLERY.",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MED",
+    "number": "557HISPANIC HEALT",
+    "title": "H",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "T      530-650P",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MED",
+    "number": "569ADDICTION MEDICIN",
+    "title": "E",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "T      600-820P",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "T      600-820P",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MED",
+    "number": "573CLIN MGMT",
+    "title": "HIV",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "T      900-1020",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "T      900-1020",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MED",
+    "number": "600INDEPNDT STDY",
+    "title": "/RSCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

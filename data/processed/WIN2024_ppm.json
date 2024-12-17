@@ -1,0 +1,148 @@
+[
+  {
+    "department": "PPM",
+    "number": "500DOCTORAL PROSEMINA",
+    "title": "R",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PPM",
+    "number": "502RESEARCH DESIG",
+    "title": "N",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "AND",
+        "room": "2",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PPM",
+    "number": "504PERSP ON",
+    "title": "INSTITUTNS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "AND",
+        "room": "3TO",
+        "instructor": "OBTAIN AN ADD CODE, EMAILEVANSREG@UW.EDU",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PPM",
+    "number": "512DATA ANALYSI",
+    "title": "S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "AND",
+        "room": "3TO",
+        "instructor": "OBTAIN AN ADD CODE, EMAILEVANSREG@UW.EDU",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PPM",
+    "number": "599TOPICS PUB",
+    "title": "POL MGMT",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "AND",
+        "room": "3TO",
+        "instructor": "OBTAIN AN ADD CODE, EMAILEVANSREG@UW.EDU",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PPM",
+    "number": "600INDEPNDT STDY",
+    "title": "/RSCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PPM",
+    "number": "603TEACHING MENTORSHI",
+    "title": "P",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PPM",
+    "number": "800DISSERTATIO",
+    "title": "N",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

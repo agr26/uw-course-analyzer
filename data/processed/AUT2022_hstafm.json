@@ -1,0 +1,36 @@
+[
+  {
+    "department": "HSTAFM",
+    "number": "152AFRIC HST",
+    "title": "1880-PRES",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "830",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAFM",
+    "number": "314HIST ISRAEL",
+    "title": "PALESTIN",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "130",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

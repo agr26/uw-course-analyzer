@@ -1,0 +1,53 @@
+[
+  {
+    "department": "MUSED",
+    "number": "304INTRO MUSIC",
+    "title": "METH I",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MF",
+        "room": "1130",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MUSED",
+    "number": "452ETHNO IN",
+    "title": "SCHOOLS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MUSED",
+    "number": "540HISTORY MUSIC",
+    "title": "EDUC",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

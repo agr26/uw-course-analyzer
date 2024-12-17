@@ -1,0 +1,46 @@
+[
+  {
+    "department": "CSDE",
+    "number": "501POP SEMINAR",
+    "title": "SERIES",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CSDE",
+        "room": "501",
+        "instructor": "RUNS UNTIL 2:15 PM WHENTHERE ARE OUTSIDE SPEAKERS.THE SEMINAR WILL BE HELD IN PAR 360",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CSDE",
+    "number": "533RSCH MTHD",
+    "title": "DEMOGRPHY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "department": "DENTCL",
+    "number": "605FOUNDATIONS OF",
+    "title": "IPE",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "OF",
+        "room": "3",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTCL",
+    "number": "607ETHICS",
+    "title": "/JURISPRUDENCE",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "OF",
+        "room": "4",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTCL",
+    "number": "633ENDO CLERKSHI",
+    "title": "P",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MTWThF 930-1150",
+        "building": "MF",
+        "room": "730",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTCL",
+    "number": "637OMS CLERKSHI",
+    "title": "P",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MTWThF 930-1150",
+        "building": "MF",
+        "room": "730",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTCL",
+    "number": "638PEDO ORTH",
+    "title": "CLERKSHIP",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MTWThF 1000-1150",
+        "building": "MF",
+        "room": "730",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTCL",
+    "number": "650INBDE PRE",
+    "title": "P",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "OF",
+        "room": "2",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTCL",
+    "number": "651PROS CLERKSHIP",
+    "title": "WR",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MTWThF 930-1150",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTCL",
+    "number": "652PERIO CLERKSHIP",
+    "title": "WR",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MTWThF 930-1150",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTCL",
+    "number": "654OPER CLERKSHIP",
+    "title": "WR",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MTWThF 930-1150",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTCL",
+    "number": "655DXTX CLERKSHIP",
+    "title": "WR",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "TWTh   730-920",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTCL",
+    "number": "656ORALM CLERKSHIP",
+    "title": "WR",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MTWThF 930-1150",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

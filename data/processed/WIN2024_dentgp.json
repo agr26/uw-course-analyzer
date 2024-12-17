@@ -1,0 +1,97 @@
+[
+  {
+    "department": "DENTGP",
+    "number": "655SERV LEARN",
+    "title": "ROTATION",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "SLR",
+        "room": "5",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "SLR",
+        "room": "5",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTGP",
+    "number": "672GEN DENT",
+    "title": "CLINIC 3",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MTWThF 930-1150",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTGP",
+    "number": "673TX PT",
+    "title": "SPC ND CLIN 3",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MTWThF 930-1150",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTGP",
+    "number": "674DENT URGENT",
+    "title": "CARE 3",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MTWThF 930-1150",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTGP",
+    "number": "676RIDE COMP",
+    "title": "GEN DENT 3",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  }
+]

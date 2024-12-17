@@ -1,0 +1,36 @@
+[
+  {
+    "department": "MARBIO",
+    "number": "479MARINE BIO",
+    "title": "RESEARCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MARBIO",
+    "number": "488MARBIO IN",
+    "title": "FIELD",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

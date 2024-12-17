@@ -1,0 +1,184 @@
+2024-12-16 17:00:55,935 - INFO - Starting scrape for AUT22
+2024-12-16 17:00:56,189 - ERROR - Error scraping AUT22: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/AUT22/
+2024-12-16 17:00:58,196 - INFO - Starting scrape for WIN22
+2024-12-16 17:00:58,689 - ERROR - Error scraping WIN22: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/WIN22/
+2024-12-16 17:01:00,692 - INFO - Starting scrape for SPR22
+2024-12-16 17:01:00,852 - ERROR - Error scraping SPR22: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SPR22/
+2024-12-16 17:01:02,859 - INFO - Starting scrape for SUM22
+2024-12-16 17:01:03,073 - ERROR - Error scraping SUM22: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SUM22/
+2024-12-16 17:01:05,076 - INFO - Starting scrape for AUT23
+2024-12-16 17:01:05,250 - ERROR - Error scraping AUT23: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/AUT23/
+2024-12-16 17:01:07,257 - INFO - Starting scrape for WIN23
+2024-12-16 17:01:07,400 - ERROR - Error scraping WIN23: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/WIN23/
+2024-12-16 17:01:09,407 - INFO - Starting scrape for SPR23
+2024-12-16 17:01:09,587 - ERROR - Error scraping SPR23: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SPR23/
+2024-12-16 17:01:11,594 - INFO - Starting scrape for SUM23
+2024-12-16 17:01:11,802 - ERROR - Error scraping SUM23: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SUM23/
+2024-12-16 17:04:25,422 - INFO - Starting scrape for AUT20
+2024-12-16 17:04:25,689 - ERROR - Error scraping AUT20: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/AUT20/
+2024-12-16 17:04:27,695 - INFO - Starting scrape for WIN20
+2024-12-16 17:04:27,888 - ERROR - Error scraping WIN20: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/WIN20/
+2024-12-16 17:04:29,894 - INFO - Starting scrape for SPR20
+2024-12-16 17:04:30,091 - ERROR - Error scraping SPR20: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SPR20/
+2024-12-16 17:04:32,095 - INFO - Starting scrape for SUM20
+2024-12-16 17:04:32,265 - ERROR - Error scraping SUM20: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SUM20/
+2024-12-16 17:04:34,271 - INFO - Starting scrape for AUT21
+2024-12-16 17:04:34,450 - ERROR - Error scraping AUT21: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/AUT21/
+2024-12-16 17:04:36,456 - INFO - Starting scrape for WIN21
+2024-12-16 17:04:36,618 - ERROR - Error scraping WIN21: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/WIN21/
+2024-12-16 17:04:38,624 - INFO - Starting scrape for SPR21
+2024-12-16 17:04:38,816 - ERROR - Error scraping SPR21: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SPR21/
+2024-12-16 17:04:40,822 - INFO - Starting scrape for SUM21
+2024-12-16 17:04:41,116 - ERROR - Error scraping SUM21: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SUM21/
+2024-12-16 17:04:43,122 - INFO - Starting scrape for AUT22
+2024-12-16 17:04:43,303 - ERROR - Error scraping AUT22: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/AUT22/
+2024-12-16 17:04:45,309 - INFO - Starting scrape for WIN22
+2024-12-16 17:04:45,538 - ERROR - Error scraping WIN22: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/WIN22/
+2024-12-16 17:04:47,544 - INFO - Starting scrape for SPR22
+2024-12-16 17:04:47,735 - ERROR - Error scraping SPR22: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SPR22/
+2024-12-16 17:04:49,741 - INFO - Starting scrape for SUM22
+2024-12-16 17:04:49,996 - ERROR - Error scraping SUM22: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SUM22/
+2024-12-16 17:04:52,002 - INFO - Starting scrape for AUT23
+2024-12-16 17:04:52,268 - ERROR - Error scraping AUT23: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/AUT23/
+2024-12-16 17:04:54,272 - INFO - Starting scrape for WIN23
+2024-12-16 17:04:54,451 - ERROR - Error scraping WIN23: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/WIN23/
+2024-12-16 17:04:56,453 - INFO - Starting scrape for SPR23
+2024-12-16 17:04:56,638 - ERROR - Error scraping SPR23: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SPR23/
+2024-12-16 17:04:58,642 - INFO - Starting scrape for SUM23
+2024-12-16 17:04:58,833 - ERROR - Error scraping SUM23: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SUM23/
+2024-12-16 17:05:00,839 - INFO - Starting scrape for AUT24
+2024-12-16 17:05:01,070 - ERROR - Error scraping AUT24: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/AUT24/
+2024-12-16 17:05:03,074 - INFO - Starting scrape for WIN24
+2024-12-16 17:05:03,257 - ERROR - Error scraping WIN24: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/WIN24/
+2024-12-16 17:05:05,260 - INFO - Starting scrape for SPR24
+2024-12-16 17:05:05,468 - ERROR - Error scraping SPR24: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SPR24/
+2024-12-16 17:05:07,473 - INFO - Starting scrape for SUM24
+2024-12-16 17:05:07,723 - ERROR - Error scraping SUM24: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SUM24/
+2024-12-16 17:07:49,832 - INFO - Starting scrape for AUT20
+2024-12-16 17:07:50,161 - ERROR - Error scraping AUT20: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/AUT20/
+2024-12-16 17:07:50,161 - INFO - Starting scrape for WIN20
+2024-12-16 17:07:50,371 - ERROR - Error scraping WIN20: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/WIN20/
+2024-12-16 17:07:50,372 - INFO - Starting scrape for SPR20
+2024-12-16 17:07:50,538 - ERROR - Error scraping SPR20: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SPR20/
+2024-12-16 17:07:50,539 - INFO - Starting scrape for SUM20
+2024-12-16 17:07:50,747 - ERROR - Error scraping SUM20: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SUM20/
+2024-12-16 17:07:50,748 - INFO - Starting scrape for AUT21
+2024-12-16 17:07:50,924 - ERROR - Error scraping AUT21: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/AUT21/
+2024-12-16 17:07:50,924 - INFO - Starting scrape for WIN21
+2024-12-16 17:07:51,102 - ERROR - Error scraping WIN21: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/WIN21/
+2024-12-16 17:07:51,103 - INFO - Starting scrape for SPR21
+2024-12-16 17:07:51,303 - ERROR - Error scraping SPR21: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SPR21/
+2024-12-16 17:07:51,303 - INFO - Starting scrape for SUM21
+2024-12-16 17:07:51,486 - ERROR - Error scraping SUM21: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SUM21/
+2024-12-16 17:07:51,486 - INFO - Starting scrape for AUT22
+2024-12-16 17:07:51,703 - ERROR - Error scraping AUT22: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/AUT22/
+2024-12-16 17:07:51,704 - INFO - Starting scrape for WIN22
+2024-12-16 17:07:51,864 - ERROR - Error scraping WIN22: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/WIN22/
+2024-12-16 17:07:51,865 - INFO - Starting scrape for SPR22
+2024-12-16 17:07:52,047 - ERROR - Error scraping SPR22: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SPR22/
+2024-12-16 17:07:52,047 - INFO - Starting scrape for SUM22
+2024-12-16 17:07:52,233 - ERROR - Error scraping SUM22: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SUM22/
+2024-12-16 17:07:52,233 - INFO - Starting scrape for AUT23
+2024-12-16 17:07:52,434 - ERROR - Error scraping AUT23: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/AUT23/
+2024-12-16 17:07:52,435 - INFO - Starting scrape for WIN23
+2024-12-16 17:07:52,612 - ERROR - Error scraping WIN23: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/WIN23/
+2024-12-16 17:07:52,613 - INFO - Starting scrape for SPR23
+2024-12-16 17:07:52,782 - ERROR - Error scraping SPR23: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SPR23/
+2024-12-16 17:07:52,782 - INFO - Starting scrape for SUM23
+2024-12-16 17:07:52,961 - ERROR - Error scraping SUM23: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SUM23/
+2024-12-16 17:07:52,961 - INFO - Starting scrape for AUT24
+2024-12-16 17:07:53,141 - ERROR - Error scraping AUT24: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/AUT24/
+2024-12-16 17:07:53,142 - INFO - Starting scrape for WIN24
+2024-12-16 17:07:53,346 - ERROR - Error scraping WIN24: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/WIN24/
+2024-12-16 17:07:53,347 - INFO - Starting scrape for SPR24
+2024-12-16 17:07:53,505 - ERROR - Error scraping SPR24: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SPR24/
+2024-12-16 17:07:53,506 - INFO - Starting scrape for SUM24
+2024-12-16 17:07:53,740 - ERROR - Error scraping SUM24: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/archive/SUM24/
+2024-12-16 17:13:02,251 - ERROR - Error getting department links for students/timeschd/AUT2003: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2003/
+2024-12-16 17:13:02,420 - ERROR - Error getting department links for students/timeschd/AUT2004: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2004/
+2024-12-16 17:13:02,650 - ERROR - Error getting department links for students/timeschd/AUT2005: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2005/
+2024-12-16 17:13:02,808 - ERROR - Error getting department links for students/timeschd/AUT2006: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2006/
+2024-12-16 17:13:02,995 - ERROR - Error getting department links for students/timeschd/AUT2007: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2007/
+2024-12-16 17:13:03,183 - ERROR - Error getting department links for students/timeschd/AUT2008: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2008/
+2024-12-16 17:13:03,409 - ERROR - Error getting department links for students/timeschd/AUT2009: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2009/
+2024-12-16 17:13:03,581 - ERROR - Error getting department links for students/timeschd/AUT2010: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2010/
+2024-12-16 17:13:03,790 - ERROR - Error getting department links for students/timeschd/AUT2011: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2011/
+2024-12-16 17:13:03,951 - ERROR - Error getting department links for students/timeschd/AUT2012: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2012/
+2024-12-16 17:13:04,165 - ERROR - Error getting department links for students/timeschd/AUT2013: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2013/
+2024-12-16 17:13:04,337 - ERROR - Error getting department links for students/timeschd/AUT2014: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2014/
+2024-12-16 17:13:04,574 - ERROR - Error getting department links for students/timeschd/AUT2015: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2015/
+2024-12-16 17:13:04,754 - ERROR - Error getting department links for students/timeschd/AUT2016: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2016/
+2024-12-16 17:13:04,920 - ERROR - Error getting department links for students/timeschd/AUT2017: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2017/
+2024-12-16 17:13:05,104 - ERROR - Error getting department links for students/timeschd/AUT2018: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2018/
+2024-12-16 17:13:05,308 - ERROR - Error getting department links for students/timeschd/AUT2019: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2019/
+2024-12-16 17:13:05,484 - ERROR - Error getting department links for students/timeschd/AUT2020: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2020/
+2024-12-16 17:13:05,665 - ERROR - Error getting department links for students/timeschd/AUT2021: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2021/
+2024-12-16 17:13:05,852 - ERROR - Error getting department links for students/timeschd/AUT2022: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2022/
+2024-12-16 17:13:06,018 - ERROR - Error getting department links for students/timeschd/AUT2023: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2023/
+2024-12-16 17:13:06,211 - ERROR - Error getting department links for students/timeschd/AUT2024: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/AUT2024/
+2024-12-16 17:13:06,417 - ERROR - Error getting department links for students/timeschd/SPR2003: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2003/
+2024-12-16 17:13:06,627 - ERROR - Error getting department links for students/timeschd/SPR2004: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2004/
+2024-12-16 17:13:06,819 - ERROR - Error getting department links for students/timeschd/SPR2005: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2005/
+2024-12-16 17:13:07,004 - ERROR - Error getting department links for students/timeschd/SPR2006: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2006/
+2024-12-16 17:13:07,163 - ERROR - Error getting department links for students/timeschd/SPR2007: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2007/
+2024-12-16 17:13:07,321 - ERROR - Error getting department links for students/timeschd/SPR2008: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2008/
+2024-12-16 17:13:07,531 - ERROR - Error getting department links for students/timeschd/SPR2009: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2009/
+2024-12-16 17:13:07,694 - ERROR - Error getting department links for students/timeschd/SPR2010: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2010/
+2024-12-16 17:13:07,924 - ERROR - Error getting department links for students/timeschd/SPR2011: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2011/
+2024-12-16 17:13:08,066 - ERROR - Error getting department links for students/timeschd/SPR2012: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2012/
+2024-12-16 17:13:08,269 - ERROR - Error getting department links for students/timeschd/SPR2013: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2013/
+2024-12-16 17:13:08,444 - ERROR - Error getting department links for students/timeschd/SPR2014: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2014/
+2024-12-16 17:13:08,662 - ERROR - Error getting department links for students/timeschd/SPR2015: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2015/
+2024-12-16 17:13:08,838 - ERROR - Error getting department links for students/timeschd/SPR2016: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2016/
+2024-12-16 17:13:09,032 - ERROR - Error getting department links for students/timeschd/SPR2017: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2017/
+2024-12-16 17:13:09,205 - ERROR - Error getting department links for students/timeschd/SPR2018: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2018/
+2024-12-16 17:13:09,391 - ERROR - Error getting department links for students/timeschd/SPR2019: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2019/
+2024-12-16 17:13:09,558 - ERROR - Error getting department links for students/timeschd/SPR2020: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2020/
+2024-12-16 17:13:09,765 - ERROR - Error getting department links for students/timeschd/SPR2021: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2021/
+2024-12-16 17:13:09,926 - ERROR - Error getting department links for students/timeschd/SPR2022: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2022/
+2024-12-16 17:13:10,117 - ERROR - Error getting department links for students/timeschd/SPR2023: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2023/
+2024-12-16 17:13:10,287 - ERROR - Error getting department links for students/timeschd/SPR2024: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SPR2024/
+2024-12-16 17:13:10,472 - ERROR - Error getting department links for students/timeschd/SUM2003: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2003/
+2024-12-16 17:13:10,645 - ERROR - Error getting department links for students/timeschd/SUM2004: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2004/
+2024-12-16 17:13:10,814 - ERROR - Error getting department links for students/timeschd/SUM2005: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2005/
+2024-12-16 17:13:11,009 - ERROR - Error getting department links for students/timeschd/SUM2006: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2006/
+2024-12-16 17:13:11,183 - ERROR - Error getting department links for students/timeschd/SUM2007: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2007/
+2024-12-16 17:13:11,401 - ERROR - Error getting department links for students/timeschd/SUM2008: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2008/
+2024-12-16 17:13:11,600 - ERROR - Error getting department links for students/timeschd/SUM2009: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2009/
+2024-12-16 17:13:11,758 - ERROR - Error getting department links for students/timeschd/SUM2010: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2010/
+2024-12-16 17:13:11,979 - ERROR - Error getting department links for students/timeschd/SUM2011: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2011/
+2024-12-16 17:13:12,131 - ERROR - Error getting department links for students/timeschd/SUM2012: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2012/
+2024-12-16 17:13:12,282 - ERROR - Error getting department links for students/timeschd/SUM2013: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2013/
+2024-12-16 17:13:12,462 - ERROR - Error getting department links for students/timeschd/SUM2014: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2014/
+2024-12-16 17:13:12,682 - ERROR - Error getting department links for students/timeschd/SUM2015: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2015/
+2024-12-16 17:13:12,872 - ERROR - Error getting department links for students/timeschd/SUM2016: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2016/
+2024-12-16 17:13:13,040 - ERROR - Error getting department links for students/timeschd/SUM2017: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2017/
+2024-12-16 17:13:13,251 - ERROR - Error getting department links for students/timeschd/SUM2018: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2018/
+2024-12-16 17:13:13,436 - ERROR - Error getting department links for students/timeschd/SUM2019: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2019/
+2024-12-16 17:13:13,601 - ERROR - Error getting department links for students/timeschd/SUM2020: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2020/
+2024-12-16 17:13:13,803 - ERROR - Error getting department links for students/timeschd/SUM2021: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2021/
+2024-12-16 17:13:13,969 - ERROR - Error getting department links for students/timeschd/SUM2022: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2022/
+2024-12-16 17:13:14,152 - ERROR - Error getting department links for students/timeschd/SUM2023: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2023/
+2024-12-16 17:13:14,342 - ERROR - Error getting department links for students/timeschd/SUM2024: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/SUM2024/
+2024-12-16 17:13:14,521 - ERROR - Error getting department links for students/timeschd/WIN2003: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2003/
+2024-12-16 17:13:14,738 - ERROR - Error getting department links for students/timeschd/WIN2004: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2004/
+2024-12-16 17:13:14,918 - ERROR - Error getting department links for students/timeschd/WIN2005: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2005/
+2024-12-16 17:13:15,099 - ERROR - Error getting department links for students/timeschd/WIN2006: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2006/
+2024-12-16 17:13:15,282 - ERROR - Error getting department links for students/timeschd/WIN2007: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2007/
+2024-12-16 17:13:15,454 - ERROR - Error getting department links for students/timeschd/WIN2008: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2008/
+2024-12-16 17:13:15,651 - ERROR - Error getting department links for students/timeschd/WIN2009: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2009/
+2024-12-16 17:13:15,817 - ERROR - Error getting department links for students/timeschd/WIN2010: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2010/
+2024-12-16 17:13:16,037 - ERROR - Error getting department links for students/timeschd/WIN2011: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2011/
+2024-12-16 17:13:16,236 - ERROR - Error getting department links for students/timeschd/WIN2012: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2012/
+2024-12-16 17:13:16,420 - ERROR - Error getting department links for students/timeschd/WIN2013: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2013/
+2024-12-16 17:13:16,628 - ERROR - Error getting department links for students/timeschd/WIN2014: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2014/
+2024-12-16 17:13:16,797 - ERROR - Error getting department links for students/timeschd/WIN2015: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2015/
+2024-12-16 17:13:17,009 - ERROR - Error getting department links for students/timeschd/WIN2016: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2016/
+2024-12-16 17:13:17,215 - ERROR - Error getting department links for students/timeschd/WIN2017: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2017/
+2024-12-16 17:13:17,409 - ERROR - Error getting department links for students/timeschd/WIN2018: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2018/
+2024-12-16 17:13:17,570 - ERROR - Error getting department links for students/timeschd/WIN2019: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2019/
+2024-12-16 17:13:17,774 - ERROR - Error getting department links for students/timeschd/WIN2020: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2020/
+2024-12-16 17:13:17,974 - ERROR - Error getting department links for students/timeschd/WIN2021: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2021/
+2024-12-16 17:13:18,195 - ERROR - Error getting department links for students/timeschd/WIN2022: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2022/
+2024-12-16 17:13:18,388 - ERROR - Error getting department links for students/timeschd/WIN2023: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2023/
+2024-12-16 17:13:18,552 - ERROR - Error getting department links for students/timeschd/WIN2024: 404 Client Error:  for url: https://www.washington.edu/students/timeschd/students/timeschd/WIN2024/

@@ -1,0 +1,36 @@
+[
+  {
+    "department": "EGYPT",
+    "number": "101HGLYPHIC EGYPTIAN",
+    "title": "1",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "EGYPT",
+    "number": "511HGLYPHIC EGYPTIAN",
+    "title": "1",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

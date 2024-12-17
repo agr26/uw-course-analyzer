@@ -1,0 +1,70 @@
+[
+  {
+    "department": "BENG",
+    "number": "102ELEMENTARY BENGAL",
+    "title": "I",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "BENG",
+    "number": "202INTERMED BENGAL",
+    "title": "I",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "BENG",
+    "number": "302ADVANCED BENGAL",
+    "title": "I",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "BENG",
+    "number": "499BENG INDPT",
+    "title": "STDY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "BENG",
+        "room": "499",
+        "instructor": "REQUIREMENTS.",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

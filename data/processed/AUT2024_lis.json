@@ -1,0 +1,36 @@
+[
+  {
+    "department": "LIS",
+    "number": "537CONSTRUC INDEX",
+    "title": "LANG",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "LIS",
+        "room": "530",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "LIS",
+    "number": "539METADATA DESIG",
+    "title": "N",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "LIS",
+        "room": "530",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

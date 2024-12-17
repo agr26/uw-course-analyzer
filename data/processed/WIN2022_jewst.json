@@ -1,0 +1,53 @@
+[
+  {
+    "department": "JEW ST",
+    "number": "250JEWISH CULTURAL",
+    "title": "HIST",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "T      130-320",
+        "building": "ON",
+        "room": "01",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "JEW ST",
+    "number": "339BIOETHICS PERS",
+    "title": "P",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "JEW ST",
+    "number": "357JEWISH AM",
+    "title": "LIT &CLTR",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "930",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "department": "CL AR",
+    "number": "343HELLNSTIC ART",
+    "title": "ARCHY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MWF",
+        "room": "1030",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CL AR",
+    "number": "461GNDR",
+    "title": "& SEX CLAS ART",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MWF",
+        "room": "1130",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  }
+]

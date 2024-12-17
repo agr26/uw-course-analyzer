@@ -1,0 +1,131 @@
+[
+  {
+    "department": "NSG",
+    "number": "432INFANT RESILIENC",
+    "title": "E",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "NSG",
+    "number": "520PHARM FOR",
+    "title": "ADV PRAC",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "NSG",
+    "number": "551HEALTH POLIC",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "NSG",
+    "number": "552SOC DETER",
+    "title": "LTH & EQ",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "NSG",
+    "number": "560PEDS CASE",
+    "title": "STUDIES",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "NURS",
+        "room": "529",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "NSG",
+    "number": "573SYS THINK",
+    "title": "POP HLTH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "T      400-650",
+        "building": "HELD",
+        "room": "100",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "NSG",
+    "number": "574POP PROG",
+    "title": "DEV & EVAL",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "T      400-650",
+        "building": "HELP",
+        "room": "100",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

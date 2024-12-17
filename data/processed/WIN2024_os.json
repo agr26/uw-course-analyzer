@@ -1,0 +1,80 @@
+[
+  {
+    "department": "O S",
+    "number": "550PP",
+    "title": "-DIR STDYS IN O S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "O S",
+    "number": "655PEER MENTOR",
+    "title": "O S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "O S",
+    "number": "664ADV CLN",
+    "title": "ORAL SURGERY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "O S",
+    "number": "672INTRAVENOUS SEDATIO",
+    "title": "N",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "OS",
+        "room": "656",
+        "instructor": "AND OS 661",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

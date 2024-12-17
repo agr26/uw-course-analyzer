@@ -1,0 +1,453 @@
+[
+  {
+    "department": "R E",
+    "number": "250INTRO REAL",
+    "title": "ESTATE",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "830",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "AT",
+        "room": "50JANUARY",
+        "instructor": "3 - MARCH 18",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "361PROP TRANSACTION",
+    "title": "S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MW     400-520",
+        "building": "MW",
+        "room": "400",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "363RE DEVELOPMEN",
+    "title": "T",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "100",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CAP",
+        "room": "30",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "397INTRO RE",
+    "title": "DATA MODEL",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CAP",
+        "room": "60PREREQS",
+        "instructor": "ENFORCED",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CAP",
+        "room": "30PREREQS",
+        "instructor": "ENFORCED",
+        "status": "Closed",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CAP",
+        "room": "30PREREQS",
+        "instructor": "ENFORCED",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "400A",
+    "title": "ccounting for RE",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MW     400-520",
+        "building": "MW",
+        "room": "400",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "401HOUSING POLIC",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "IS",
+        "room": "30",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "411RE APPRAISA",
+    "title": "L",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CAP",
+        "room": "50RE",
+        "instructor": "MAJORS ONLY PERIOD I",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "413RE FINANCE",
+    "title": "INVEST",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "TTh    1130-120",
+        "building": "IS",
+        "room": "30DISTANCE",
+        "instructor": "LEARNING COURSE",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MW     300-450",
+        "building": "MW",
+        "room": "300",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "416RE MARKET",
+    "title": "ANALYSIS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1000",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "TTh    1000-1150",
+        "building": "AT",
+        "room": "30OFFERED",
+        "instructor": "SYNCHRONOUSLY VIA DISTANCELEARNING",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "464AFFORDABLE HOUSIN",
+    "title": "G",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MW     830-1020",
+        "building": "MW",
+        "room": "830",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "480PROFESSIONAL DEVP",
+    "title": "T",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "AT",
+        "room": "50RE",
+        "instructor": "MAJORS ONLY PERIOD I",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "490INDEPENDENT STUD",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "510INTRO REAL",
+    "title": "ESTATE",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "513RE FINANCE",
+    "title": "INVEST",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "TTh    1130-120",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "514NEGOTATIONS B",
+    "title": "E",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "515REAL ESTATE",
+    "title": "LAW",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "518BEST PRACTICES",
+    "title": "RE",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "540ADV RE",
+    "title": "FINANCE & INV",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "541R E",
+    "title": "CAPITAL MARKETS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "TTh    130-250",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "552RE CAREER",
+    "title": "DEVEL",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1030",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "563HOUSING MARKET",
+    "title": "S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "564AFFORDABLE HOUSIN",
+    "title": "G",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MW     830-1020",
+        "building": "MW",
+        "room": "830",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "600INDEPNDNT STDY",
+    "title": "/RSCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

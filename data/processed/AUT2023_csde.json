@@ -1,0 +1,36 @@
+[
+  {
+    "department": "CSDE",
+    "number": "501POP SEMINAR",
+    "title": "SERIES",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CSDE",
+        "room": "501",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CSDE",
+    "number": "513DEMOGRAPHY",
+    "title": "& SOCIETY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

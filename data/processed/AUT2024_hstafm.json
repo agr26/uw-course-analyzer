@@ -1,0 +1,87 @@
+[
+  {
+    "department": "HSTAFM",
+    "number": "263IDENTY",
+    "title": "-POLTCS MDEAST",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MW     1230-220",
+        "building": "MW",
+        "room": "1230",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAFM",
+    "number": "314HIST ISRAEL",
+    "title": "PALESTIN",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "930",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAFM",
+    "number": "459HIST JEWS",
+    "title": "& MUSLIMS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "130",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAFM",
+    "number": "563RDGS MOD",
+    "title": "MIDDLE EAST",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "Th     1230-220",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTAFM",
+    "number": "570ISRAEL",
+    "title": "/PALESTINE",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "department": "LIS",
+    "number": "536METADATA FOR",
+    "title": "MEDIA",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "LIS",
+    "number": "564MLTICULTR RES",
+    "title": "YOUTH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "LIS",
+    "number": "577PART DESIGN",
+    "title": "IN LIB",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "W      300-450",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

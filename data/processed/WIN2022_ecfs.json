@@ -1,0 +1,209 @@
+[
+  {
+    "department": "ECFS",
+    "number": "200INTRO TO",
+    "title": "ECFS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "TTh    1000-1120",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "TTh    1000-1120",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ECFS",
+    "number": "301EARLY CHLDHD",
+    "title": "CURRIC",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ECFS",
+    "number": "303SRVC LRNG",
+    "title": "& RES I",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ECFS",
+    "number": "304SRVC LRNG",
+    "title": "& RES II",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ECFS",
+    "number": "315PARENTING CHILD",
+    "title": "DEV",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "WD",
+        "room": "100",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ECFS",
+    "number": "321ENG ENV",
+    "title": "/INTERACTIONS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ECFS",
+    "number": "400CHLD OBSRV",
+    "title": "& ASSESS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "830",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ECFS",
+    "number": "402SOCIAL POLIC",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "M      1130-150",
+        "building": "ECFS",
+        "room": "401",
+        "instructor": "MUST BE COMPLETEDBEFORE FIRST DAY OF WINTER QUARTER.NO ADD CODES, NO WAITLISTS.THIS COURSE WILL MEET ONLINE ONMONDAYS AND IN-PERSON ON WEDNESDAYS",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "ECFS",
+        "room": "401",
+        "instructor": "MUST BE COMPLETEDBEFORE FIRST DAY OF WINTER QUARTER.NO ADD CODES, NO WAITLISTS. THISCOURSE IS 100% ONLINE WITH ANASYNCHRONOUS FORMAT.",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ECFS",
+    "number": "403SENIOR CAPSTON",
+    "title": "E",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ECFS",
+    "number": "455SENIOR PROJECT",
+    "title": "II",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "ECFS",
+        "room": "454MUST",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ECFS",
+    "number": "499UNDERGRAD RESEARC",
+    "title": "H",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

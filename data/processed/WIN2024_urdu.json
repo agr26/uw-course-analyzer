@@ -1,0 +1,70 @@
+[
+  {
+    "department": "URDU",
+    "number": "102ELEMENTARY URD",
+    "title": "U",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MWF",
+        "room": "930",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "URDU",
+    "number": "323ADV URDU",
+    "title": "NOVEL",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "230",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "URDU",
+    "number": "423ADV URDU",
+    "title": "NOVEL",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "230",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "URDU",
+    "number": "499URDU INDPT",
+    "title": "STDY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "URDU",
+        "room": "499ADVISOR",
+        "instructor": "FOR FACULTY CODE.",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "department": "MUSTEC",
+    "number": "200LIVE RECORDING",
+    "title": "FUND",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MUSTEC",
+    "number": "400LIVE REC",
+    "title": "FND ADV MUS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

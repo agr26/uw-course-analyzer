@@ -1,0 +1,36 @@
+[
+  {
+    "department": "MEDLIC",
+    "number": "601WWAMI RURAL",
+    "title": "LIC 1",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "MEDLIC",
+    "number": "602WWAMI RURAL",
+    "title": "LIC 2",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

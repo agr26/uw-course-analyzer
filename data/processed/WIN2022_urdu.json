@@ -1,0 +1,87 @@
+[
+  {
+    "department": "URDU",
+    "number": "102ELEMENTARY URD",
+    "title": "U",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "URDU",
+        "room": "101",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "URDU",
+    "number": "202INTERMEDIATE URD",
+    "title": "U",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "URDU",
+        "room": "201",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "URDU",
+    "number": "302ADVANCED URD",
+    "title": "U",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MWF",
+        "room": "1130",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "URDU",
+    "number": "402FOURTH",
+    "title": "-YR URDU",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "130",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "URDU",
+    "number": "499URDU INDPT",
+    "title": "STDY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "URDU",
+        "room": "499ADVISOR",
+        "instructor": "FOR FACULTY CODE.",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

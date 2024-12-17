@@ -1,0 +1,209 @@
+[
+  {
+    "department": "BIME",
+    "number": "300TRNSFRM TECH",
+    "title": "BIOMED",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "130",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "BIME",
+    "number": "499UNDERGRAD RESEARC",
+    "title": "H",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "BIME",
+    "number": "527DIS ADV",
+    "title": "CLIN TRN RES",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "BIME",
+        "room": "525",
+        "instructor": "AND BIME 526EMAIL INSTRUCTOR TO ENROLL,ARICLANE@UW.EDUTEXTBOOK REQUIRED: DESIGNINGCLINICAL RESEARCH, FIFTH EDITION,MAY 2022.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "W      530-720P",
+        "building": "BIME",
+        "room": "525",
+        "instructor": "AND BIME 526EMAIL INSTRUCTOR TO ENROLL,ARICLANE@UW.EDUTEXTBOOK REQUIRED: DESIGNINGCLINICAL RESEARCH, FIFTH DESIGN,MAY 2022.CLASS MEETS 5:30-7:00PM (PACIFIC)",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "BIME",
+    "number": "530INTRODUCTION TO",
+    "title": "BHI",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "100",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "BIME",
+    "number": "543CONSUM HEALTH",
+    "title": "INFO",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "TTh    230-350",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "BIME",
+    "number": "585PRO DEV",
+    "title": "BIOMED INF 1",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "BIME",
+    "number": "590SELECTED TPCS",
+    "title": "BIME",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "Th     1100-1150",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "BIME",
+    "number": "591BHI RESRCH",
+    "title": "COLLOQU",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "F      100-150",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "Th     1000-1050",
+        "building": "ROOM",
+        "room": "123",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "BIME",
+    "number": "600INFORMATICS STY",
+    "title": "/RSH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "BIME",
+    "number": "700INFORMAT THESI",
+    "title": "S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "BIME",
+    "number": "800DOCTORAL DISSERTAT",
+    "title": "N",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

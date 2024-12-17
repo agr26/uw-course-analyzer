@@ -1,0 +1,80 @@
+[
+  {
+    "department": "DENTGP",
+    "number": "655SERV LEARN",
+    "title": "ROTATION",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTGP",
+    "number": "662GEN DENT",
+    "title": "CLINIC 2",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MTWThF 930-1150",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTGP",
+    "number": "663TX PT",
+    "title": "SPC ND CLIN 2",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MTWThF 930-1150",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTGP",
+    "number": "664DENT URGENT",
+    "title": "CARE 2",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MTWThF 930-1150",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  }
+]

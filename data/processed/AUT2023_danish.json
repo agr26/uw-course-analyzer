@@ -1,0 +1,53 @@
+[
+  {
+    "department": "DANISH",
+    "number": "101FIRST YEAR",
+    "title": "DANISH 1",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "OF",
+        "room": "3",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DANISH",
+    "number": "2012ND YEAR",
+    "title": "DANISH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "F      1130-1220",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DANISH",
+    "number": "490SUPERVISED READIN",
+    "title": "G",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,839 @@
+[
+  {
+    "department": "CEE",
+    "number": "220INTRO MECH",
+    "title": "OF MATLS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MWF",
+        "room": "930",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "220A",
+        "instructor": "REQUIRED.STUDENTS WHO DO NOT COMPLETE THEPREREQUISITES WILL BE DROPPED FROMTHIS COURSE.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "220A",
+        "instructor": "REQUIRED.STUDENTS WHO DO NOT COMPLETE THEPREREQUISITES WILL BE DROPPED FROMTHIS COURSE.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "220A",
+        "instructor": "REQUIRED.STUDENTS WHO DO NOT COMPLETE THEPREREQUISITES WILL BE DROPPED FROMTHIS COURSE.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "220A",
+        "instructor": "REQUIRED.STUDENTS WHO DO NOT COMPLETE THEPREREQUISITES WILL BE DROPPED FROMTHIS COURSE.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "220A",
+        "instructor": "REQUIRED.STUDENTS WHO DO NOT COMPLETE THEPREREQUISITES WILL BE DROPPED FROMTHIS COURSE.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "220A",
+        "instructor": "REQUIRED.STUDENTS WHO DO NOT COMPLETE THEPREREQUISITES WILL BE DROPPED FROMTHIS COURSE.",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "291AUTOCA",
+    "title": "D",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "297FOREIGN STUD",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "299INDEPENDENT PROJEC",
+    "title": "T",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "307CONSTRUCTION ENG",
+    "title": "R",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1030",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "327TRANSPORTATION ENG",
+    "title": "R",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "130",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "IN",
+        "room": "327",
+        "instructor": "AREQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "IN",
+        "room": "327",
+        "instructor": "AREQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "IN",
+        "room": "327",
+        "instructor": "AREQUIRED.",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "347FLUID MECHANIC",
+    "title": "S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "AND",
+        "room": "347",
+        "instructor": "LABSECTION REQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "347",
+        "instructor": "AAND 347 LAB REQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "347",
+        "instructor": "AAND 347 LAB REQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "347",
+        "instructor": "AAND 347 LAB REQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "W      930-1020",
+        "building": "CEE",
+        "room": "347",
+        "instructor": "AAND 347 QUIZ REQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "W      1030-1120",
+        "building": "CEE",
+        "room": "347",
+        "instructor": "AAND 347 QUIZ REQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "W      1230-120",
+        "building": "CEE",
+        "room": "347",
+        "instructor": "AAND 347 QUIZ REQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "W      130-220",
+        "building": "CEE",
+        "room": "347",
+        "instructor": "AAND 347 QUIZ REQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "W      230-320",
+        "building": "CEE",
+        "room": "347",
+        "instructor": "AAND 347 QUIZ REQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "W      330-420",
+        "building": "CEE",
+        "room": "347",
+        "instructor": "AAND 347 QUIZ REQUIRED.",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "354INTRO CHEM",
+    "title": "ENV ENG",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "354LAB",
+        "instructor": "REQUIRED",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "354",
+        "instructor": "AREQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "354",
+        "instructor": "AREQUIRED.",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "357ENVIRONMENTAL ENG",
+    "title": "R",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "IN",
+        "room": "357",
+        "instructor": "LABREQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "IN",
+        "room": "357",
+        "instructor": "AREQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "IN",
+        "room": "357",
+        "instructor": "AREQUIRED.",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "367GEOTECHNICAL ENG",
+    "title": "R",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "367LAB",
+        "instructor": "REQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "367",
+        "instructor": "AREQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "367",
+        "instructor": "AREQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "367",
+        "instructor": "AREQUIRED.",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "377INTRO STRUCT",
+    "title": "DESIGN",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "IN",
+        "room": "377QUIZ",
+        "instructor": "SECTION REQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "IN",
+        "room": "377",
+        "instructor": "AREQUIRED.",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "IN",
+        "room": "377",
+        "instructor": "AREQUIRED.",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "410TRAFFIC ENGR",
+    "title": "FUND",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "412TRANSP DATA",
+    "title": "MGMT VIS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "WF",
+        "room": "830",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "432ADV REMOTE",
+    "title": "SENSING",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1200",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "434PROJECT ESTM",
+    "title": "G",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "450BEHAV SCI",
+    "title": "ENGR DSGN",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "453PRESTRESSED CON",
+    "title": "DES",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "130",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "454DSGN TIMBER",
+    "title": "STRUCTS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MWF",
+        "room": "1130",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "457ADV STRUCT",
+    "title": "I",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1000",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "467GEOSP DATA",
+    "title": "ANALYSIS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "300",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "475GROUNDWATER FLO",
+    "title": "W",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1000",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "478WATER SYS",
+    "title": "MANAG & OP",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "130",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "481HYDR DESIGN",
+    "title": "ENV ENG",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "482WASTEWTR REUSE",
+    "title": "/REC",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "498SPECIAL TOPIC",
+    "title": "S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1200",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "498",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "499INDPNDT STUDY",
+    "title": "/RSCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "499",
+        "instructor": "REQUEST FORMAVAILABLE ON CEE WEBSITE:HTTP://WWW.CE.WASHINGTON.EDU/STUDENTS/UNDERGRAD.HTML",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "CEE",
+        "room": "499",
+        "instructor": "REQUEST FORMAVAILABLE ON CEE WEBSITE:HTTP://WWW.CE.WASHINGTON.EDU/STUDENTS/UNDERGRAD.HTML",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "500CEE SEMINAR",
+    "title": "S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "600INDEPENDENT STUD",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "601INTERNSHI",
+    "title": "P",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "700MASTERS THESI",
+    "title": "S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CEE",
+    "number": "800DOCTORAL DISSERTAT",
+    "title": "N",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]
