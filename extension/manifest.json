@@ -4,8 +4,7 @@
     "version": "1.0",
     "description": "Historical course information for UW MyPlan",
     "permissions": [
-      "storage",
-      "activeTab"
+      "storage"
     ],
     "host_permissions": [
       "*://*.washington.edu/*"

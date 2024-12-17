@@ -1,108 +1,114 @@
-class CourseAnalyzerPopup {
-    constructor() {
-        this.searchInput = document.getElementById('courseSearch');
-        this.courseDisplay = document.getElementById('courseDisplay');
-        this.initializeEventListeners();
+(function() {
+    // Ensure courseData is globally available immediately
+    if (typeof courseData !== 'undefined') {
+      window.courseData = courseData;
     }
-
-    initializeEventListeners() {
-        // Add input event listener with debouncing
-        let timeout = null;
-        this.searchInput.addEventListener('input', () => {
-            clearTimeout(timeout);
-            timeout = setTimeout(() => this.handleSearch(), 300);
-        });
-    }
-
-    async handleSearch() {
-        const query = this.searchInput.value.trim().toUpperCase();
+  
+    function initializeSearch() {
+      console.log('Initializing search functionality');
+      console.log('Global courseData:', window.courseData);
+  
+      const searchInput = document.getElementById('courseSearch');
+      const courseDisplay = document.getElementById('courseDisplay');
+  
+      if (!searchInput || !courseDisplay) {
+        console.error('Required DOM elements not found');
+        return;
+      }
+  
+      // Verify courseData before setting up search
+      if (!window.courseData || Object.keys(window.courseData).length === 0) {
+        courseDisplay.innerHTML = `
+          <div class="course-info">
+            <p>Error: No course data available</p>
+          </div>`;
+        return;
+      }
+  
+      console.log('Total courses:', Object.keys(window.courseData).length);
+      console.log('Sample course keys:', Object.keys(window.courseData).slice(0, 5));
+  
+      function handleSearch() {
+        const query = searchInput.value.trim().toUpperCase();
+        
         if (query.length < 3) {
-            this.courseDisplay.innerHTML = '';
-            return;
+          courseDisplay.innerHTML = '';
+          return;
         }
-
-        const courseCode = this.normalizeCourseCode(query);
-        if (courseCode && courseData[courseCode]) {
-            this.displayCourseInfo(courseCode);
-        } else {
-            this.courseDisplay.innerHTML = `
-                <div class="course-info">
-                    <p>No data found for ${query}</p>
-                </div>
-            `;
-        }
-    }
-
-    normalizeCourseCode(query) {
-        // Handle different input formats (e.g., "CSE142", "CSE 142")
+  
         const match = query.match(/([A-Z&]+)\s*(\d+)/);
-        return match ? `${match[1]}${match[2]}` : null;
-    }
-
-    displayCourseInfo(courseCode) {
-        const courseInfo = courseData[courseCode];
-        if (!courseInfo) return;
-
-        this.courseDisplay.innerHTML = `
+        
+        if (!match) {
+          courseDisplay.innerHTML = `
             <div class="course-info">
-                <h2>${courseInfo.department} ${courseInfo.number}</h2>
-                <h3>${courseInfo.title}</h3>
-                
-                <div class="offering-pattern">
-                    ${this.renderQuarterStats(courseInfo.historicalPatterns)}
-                </div>
-
-                <div class="time-patterns">
-                    <h4>Common Time Slots</h4>
-                    ${this.renderTimePatterns(courseInfo.historicalPatterns.typicalTimes)}
-                </div>
-
-                <div class="workload-info">
-                    <h4>Course Information</h4>
-                    <p>Total Offerings: ${Object.keys(courseInfo.offerings).length}</p>
-                    <p>Most Recent: ${this.getMostRecentOffering(courseInfo.offerings)}</p>
-                </div>
-            </div>
-        `;
-    }
-
-    renderQuarterStats(patterns) {
-        const quarters = ['AUT', 'WIN', 'SPR', 'SUM'];
-        return quarters.map(quarter => `
-            <div class="quarter-stat">
-                <div class="quarter-label">${quarter}</div>
-                <div class="probability ${this.getProbabilityClass(patterns.offeringQuarters.includes(quarter))}">
-                    ${patterns.offeringQuarters.includes(quarter) ? "Offered" : "Not offered"}
-                </div>
-            </div>
-        `).join('');
-    }
-
-    renderTimePatterns(times) {
-        if (!times || Object.keys(times).length === 0) {
-            return '<p>No time pattern data available</p>';
+              <p>Please enter a valid course code (e.g., INFO 200)</p>
+            </div>`;
+          return;
         }
-
-        return Object.entries(times)
-            .map(([days, slots]) => `
-                <div class="time-slot">
-                    <span class="days">${days}</span>
-                    <span class="slots">${slots.join(', ')}</span>
+  
+        const searchDept = match[1];
+        const searchNumber = match[2];
+  
+        const matchingCourseCode = Object.keys(window.courseData).find(courseCode => 
+          courseCode.startsWith(searchDept) && courseCode.includes(searchNumber)
+        );
+  
+        if (!matchingCourseCode) {
+          courseDisplay.innerHTML = `
+            <div class="course-info">
+              <p>No data found for ${query}</p>
+            </div>`;
+          return;
+        }
+  
+        const courseInfo = window.courseData[matchingCourseCode];
+  
+        const formattedNumber = courseInfo.number.replace(/(\d+)/, ' $1');
+  
+        courseDisplay.innerHTML = `
+          <div class="course-info">
+            <h2>${courseInfo.department} ${formattedNumber}</h2>
+            <h3>${courseInfo.title}</h3>
+            
+            <div class="offering-pattern">
+              ${['AUT', 'WIN', 'SPR', 'SUM'].map(quarter => `
+                <div class="quarter-stat">
+                  <div class="quarter-label">${quarter}</div>
+                  <div class="probability ${courseInfo.historicalPatterns?.offeringQuarters?.includes(quarter) ? 'high' : 'low'}">
+                    ${courseInfo.historicalPatterns?.offeringQuarters?.includes(quarter) ? "Offered" : "Not offered"}
+                  </div>
                 </div>
-            `).join('');
+              `).join('')}
+            </div>
+  
+            <div class="time-patterns">
+              <h4>Common Time Slots</h4>
+              ${courseInfo.historicalPatterns?.typicalTimes && Object.keys(courseInfo.historicalPatterns.typicalTimes).length > 0 ? 
+                Object.entries(courseInfo.historicalPatterns.typicalTimes).map(([days, times]) => `
+                  <div class="time-slot">
+                    <span>${days}</span>
+                    <span>${Array.isArray(times) ? times.join(', ') : times}</span>
+                  </div>
+                `).join('') : 
+                '<p>No typical time slots found</p>'}
+            </div>
+          </div>
+        `;
+      }
+  
+      let timeout = null;
+      searchInput.addEventListener('input', function() {
+        clearTimeout(timeout);
+        timeout = setTimeout(handleSearch, 300);
+      });
+  
+      console.log('Search functionality initialized');
     }
-
-    getProbabilityClass(offered) {
-        return offered ? 'high' : 'low';
+  
+    // Multiple ways to ensure initialization
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initializeSearch);
+    } else {
+      initializeSearch();
     }
-
-    getMostRecentOffering(offerings) {
-        const quarters = Object.keys(offerings).sort().reverse();
-        return quarters[0] || 'No recent offerings';
-    }
-}
-
-// Initialize popup when DOM is loaded
-document.addEventListener('DOMContentLoaded', () => {
-    new CourseAnalyzerPopup();
-});
+  })();

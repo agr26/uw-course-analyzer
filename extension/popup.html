@@ -1,115 +1,98 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>UW Course Analyzer</title>
-    <style>
-        body {
-            width: 400px;
-            padding: 16px;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-        }
+  <title>UW Course Finder</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+    }
 
-        .header {
-            margin-bottom: 16px;
-            padding-bottom: 8px;
-            border-bottom: 1px solid #e0e0e0;
-        }
+    .search-container {
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
 
-        .header h1 {
-            color: #4b2e83; /* UW Purple */
-            font-size: 18px;
-            margin: 0;
-        }
+    .search-input {
+      width: 100%;
+      padding: 12px 20px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 16px;
+    }
 
-        .search-box {
-            width: 100%;
-            padding: 8px;
-            margin-bottom: 16px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-        }
+    .course-results {
+      padding: 20px;
+    }
 
-        .course-info {
-            margin-bottom: 16px;
-            padding: 12px;
-            background: #f5f5f5;
-            border-radius: 4px;
-        }
+    .course-card {
+      background-color: #fff;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 16px;
+      margin-bottom: 16px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
 
-        .offering-pattern {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 8px;
-            margin-top: 8px;
-        }
+    .course-header {
+      display: flex;
+      align-items: baseline;
+      margin-bottom: 12px;
+    }
 
-        .quarter-stat {
-            text-align: center;
-            padding: 8px;
-            background: white;
-            border-radius: 4px;
-            border: 1px solid #ddd;
-        }
+    .course-code {
+      font-size: 20px;
+      font-weight: bold;
+      margin-right: 12px;
+    }
 
-        .quarter-label {
-            font-weight: 500;
-            color: #4b2e83;
-        }
+    .course-title {
+      font-size: 16px;
+      color: #555;
+    }
 
-        .probability {
-            font-size: 14px;
-            margin-top: 4px;
-        }
+    .offering-status {
+      display: flex;
+      margin-bottom: 12px;
+    }
 
-        .high { color: #2e7d32; }
-        .medium { color: #f57c00; }
-        .low { color: #c62828; }
+    .quarter-status {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-right: 16px;
+    }
 
-        .time-patterns {
-            margin-top: 16px;
-        }
+    .quarter {
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
 
-        .time-slot {
-            display: flex;
-            justify-content: space-between;
-            padding: 4px 0;
-        }
+    .status {
+      padding: 4px 8px;
+      border-radius: 4px;
+      background-color: #e6f3e6;
+      color: #4caf50;
+    }
 
-        .workload-info {
-            margin-top: 16px;
-            padding: 12px;
-            background: white;
-            border-radius: 4px;
-            border: 1px solid #ddd;
-        }
+    .time-slots {
+      display: flex;
+      flex-direction: column;
+    }
 
-        .tip {
-            margin-top: 16px;
-            padding: 8px;
-            background: #e8f5e9;
-            border-radius: 4px;
-            font-size: 13px;
-        }
-    </style>
+    .time-slot-info {
+      margin-bottom: 8px;
+    }
+</style>
 </head>
 <body>
-    <div class="header">
-        <h1>UW Course Analyzer</h1>
-    </div>
-
-    <input type="text" 
-           class="search-box" 
-           placeholder="Search for a course (e.g., CSE 142)"
-           id="courseSearch">
-
-    <div id="courseDisplay">
-        <!-- Course information will be displayed here -->
-    </div>
-
-    <div class="tip">
-        💡 Pro tip: Click on a course in MyPlan to see detailed historical data
-    </div>
-
+    <input id="courseSearch" type="text" placeholder="Search courses (e.g., INFO 200)">
+    <div id="courseDisplay"></div>
+    
     <script src="courseData.js"></script>
     <script src="popup.js"></script>
 </body>

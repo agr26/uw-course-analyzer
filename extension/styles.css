@@ -1,57 +1,89 @@
-.historical-info {
-    margin-top: 8px;
-    padding: 8px;
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+  }
+  
+  /* Course Search Container */
+  #courseSearch {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 20px 0;
+    border: 1px solid #ccc;
     border-radius: 4px;
-    background: #f5f5f5;
-    font-size: 12px;
-}
-
-.offering-probability {
+    font-size: 16px;
+  }
+  
+  /* Course Result Item */
+  #courseDisplay {
+    padding: 20px;
+  }
+  
+  .course-info {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 16px;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .course-header {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 12px;
+  }
+  
+  .course-code {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 12px;
+  }
+  
+  .course-title {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .offering-pattern {
+    display: flex;
+    margin-bottom: 12px;
+  }
+  
+  .quarter-stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 16px;
+  }
+  
+  .quarter-label {
+    font-weight: bold;
     margin-bottom: 4px;
-}
-
-.offering-probability.high { color: #2e7d32; }
-.offering-probability.medium { color: #f57c00; }
-.offering-probability.low { color: #c62828; }
-
-.time-conflict-warning {
-    margin-top: 8px;
-    padding: 8px;
-    background: #fff3e0;
-    border-left: 4px solid #f57c00;
-    font-size: 12px;
-}
-
-.workload-indicator {
-    margin-top: 8px;
+  }
+  
+  .probability {
     padding: 4px 8px;
     border-radius: 4px;
-    font-size: 12px;
-}
-
-.workload-indicator.light { background: #e8f5e9; }
-.workload-indicator.medium { background: #fff3e0; }
-.workload-indicator.heavy { background: #ffebee; }
-
-.quarter-workload-warning {
-    margin: 8px 0;
-    padding: 12px;
-    background: #ffebee;
-    border-radius: 4px;
-    border-left: 4px solid #c62828;
-}
-
-.warning-icon {
-    margin-right: 4px;
-}
-
-.warning-details {
-    margin-top: 4px;
-    font-size: 11px;
-    color: #666;
-}
-
-.label {
-    font-weight: 500;
-    margin-right: 4px;
-}
+  }
+  
+  .high {
+    background-color: #e6f3e6;
+    color: #4caf50;
+  }
+  
+  .low {
+    background-color: #f3e6e6;
+    color: #c10909;
+  }
+  
+  .time-patterns {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .time-slot {
+    margin-bottom: 8px;
+  }
