@@ -1,0 +1,876 @@
+[
+  {
+    "department": "PSYCH",
+    "number": "101INTRO TO",
+    "title": "PSYCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "202BIOPSYC",
+    "title": "H",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "203PERS",
+    "title": "& INDIV DIFFS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "205BEHAVIOR DISORDER",
+    "title": "S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MWF    1200-140",
+        "building": "MWF",
+        "room": "1200",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "209FDMNTLS PSYCH",
+    "title": "RSCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MWF",
+        "room": "940",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "210HUMAN SEXUALIT",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "257PSYCH OF",
+    "title": "GENDER",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "300ANIMAL BEHAVIO",
+    "title": "R",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "302NEUROSCIENCE OF",
+    "title": "MIND",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18;DO NOT CONTACT INSTRUCTORIF CLASS IS FULL;NO ADD CODES, NO WAIT LIST;INTERESTED STUDENTS SHOULDSIGN UP FOR SEAT NOTIFICATIONSVIA NOTIFYUW",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "303PERSONALIT",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18;DO NOT CONTACT INSTRUCTORIF CLASS IS FULL;NO ADD CODES, NO WAIT LIST;INTERESTED STUDENTS SHOULDSIGN UP FOR SEAT NOTIFICATIONSVIA NOTIFYUW",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "305ABNORMAL PSYCHOLOG",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "315UNDRSTD STATS",
+    "title": "PSYCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "330LAB ANIMAL",
+    "title": "BEHAVIOR",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MWF",
+        "room": "940",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "333SEN",
+    "title": "/PERCPT PROCESS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "334LAB",
+    "title": "-SOCIAL PSYCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1020",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "345SOCIAL PSYCHOLOG",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18;DO NOT CONTACT INSTRUCTORIF CLASS IS FULL;NO ADD CODES, NO WAIT LIST;INTERESTED STUDENTS SHOULDSIGN UP FOR SEAT NOTIFICATIONSVIA NOTIFYUW",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Closed",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "355COGNITIVE PSYC",
+    "title": "H",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MTWTh  110-210",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "F      940-1040",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "F      1050-1150",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "F      1200-100",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "F      110-210",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "408NEUROETHOLOG",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "419ZOO ANIMAL",
+    "title": "BEHAVIOR",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "426NEUROBIOL LEARN",
+    "title": "&MEM",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18;DO NOT CONTACT INSTRUCTORIF CLASS IS FULL;NO ADD CODES, NO WAIT LIST;INTERESTED STUDENTS SHOULDSIGN UP FOR SEAT NOTIFICATIONSVIA NOTIFYUW",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "448TOPICS PSYCH",
+    "title": "SCIENCE",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18COURSE DESCRIPTION ATHTTPS://TINYURL.COM/PSYCH448;IF THE CLASS IS FULL, PLEASE CONTACAT EMMAPECONGA@GMAIL.COMTO BE ADDED TO A WAIT LIST",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "451HEALTH PSYCHOLOG",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "MWF    830-1010",
+        "building": "MWF",
+        "room": "830",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "489CLINICAL PSYCHOLOG",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MTW",
+        "room": "1200",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "496UNDERGRAD TEACH",
+    "title": "EXP",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "498DIRECTED READIN",
+    "title": "G",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "499UNDERGRAD RESEARC",
+    "title": "H",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "596ADV TCHG",
+    "title": "PRACTICUM",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "598DIRECTED READIN",
+    "title": "G",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "599DIR RESRCH",
+    "title": "PSYCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "600INDEPNDNT STDY",
+    "title": "/RSCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "700MASTERS THESI",
+    "title": "S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCH",
+    "number": "800DOCTORAL DISSERTAT",
+    "title": "N",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

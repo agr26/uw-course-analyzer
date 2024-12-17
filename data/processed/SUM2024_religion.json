@@ -1,0 +1,53 @@
+[
+  {
+    "department": "RELIG",
+    "number": "120YOGA PAST",
+    "title": "& PRESENT",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "PAST",
+        "room": "300",
+        "instructor": "STUDENTSNO AUDITORS/ACCESSCROSS LIST WITH CHID 120WITH A COMBINED ENROLLMENTOF 300 STUDENTS. CAN REGISTERIN EITHER JSIS OR CHID UPTO 300 STUDENTS TOTAL",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "RELIG",
+    "number": "211MUSLIM BLIEFS",
+    "title": "/PRACTS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "RELIG",
+    "number": "320COMPAR STUDY",
+    "title": "DEATH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "MW",
+        "room": "1020",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

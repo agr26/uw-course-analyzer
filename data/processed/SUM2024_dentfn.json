@@ -1,0 +1,53 @@
+[
+  {
+    "department": "DENTFN",
+    "number": "500INTRO TO",
+    "title": "CLINIC DENT",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "TWTh   800-1220",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTFN",
+    "number": "502INTRO BIOMED",
+    "title": "FNDTNS",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "DENTFN",
+    "number": "523ORAL HIST",
+    "title": "& EMB 1",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Closed",
+        "additional_info": []
+      }
+    ]
+  }
+]

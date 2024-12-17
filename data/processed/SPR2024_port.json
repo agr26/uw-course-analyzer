@@ -1,0 +1,36 @@
+[
+  {
+    "department": "PORT",
+    "number": "201INTERMEDIATE POR",
+    "title": "T",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "THE",
+        "room": "3RD",
+        "instructor": "DAY OF THE QUARTER.CONTACT THE COORDINATOR OF THEPORTUGUESE PROGRAM, EDUARDO VIANADA SILVA, AT EVSILVA@UW.EDU WITHANY QUESTIONS.",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PORT",
+    "number": "301ADVANCED POR",
+    "title": "T",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "THE",
+        "room": "3RD",
+        "instructor": "DAY OF THE QUARTER.CONTACT THE COORDINATOR OF THEPORTUGUESE PROGRAM, EDUARDO VIANADA SILVA, AT EVSILVA@UW.EDU WITHANY QUESTIONS.",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

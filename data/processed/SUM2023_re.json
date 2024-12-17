@@ -1,0 +1,87 @@
+[
+  {
+    "department": "R E",
+    "number": "250INTRO REAL",
+    "title": "ESTATE",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "TTh    940-1220",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "361PROP TRANSACTION",
+    "title": "S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "TTh    940-1220",
+        "building": "RE",
+        "room": "250OFFERED",
+        "instructor": "VIA DISTANCE LEARNING,SYNCHRONOUSLY ENROLLMENT CAPPED AT50",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "363RE DEVELOPMEN",
+    "title": "T",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "TTh    940-1220",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "463HOUSNG MKTS",
+    "title": "& POLICY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "TTh    110-350",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "490INDEPENDENT STUD",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

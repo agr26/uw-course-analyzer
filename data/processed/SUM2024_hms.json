@@ -1,0 +1,36 @@
+[
+  {
+    "department": "HMS",
+    "number": "591MEASUREMNT OF",
+    "title": "HIV/TB",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "26",
+        "instructor": "ANJULY 3 FROM 10-11:20AM IN HRC 597.",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HMS",
+    "number": "595CAPSTONE I",
+    "title": "I",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUN",
+        "room": "18",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "department": "HSTLAC",
+    "number": "481PERU",
+    "title": "& ANDEAN REGION",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HSTLAC",
+    "number": "584SMNR LAT",
+    "title": "AMER HIST",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

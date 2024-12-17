@@ -1,0 +1,53 @@
+[
+  {
+    "department": "UCONJ",
+    "number": "510INTRO LAB",
+    "title": "BSD BIOST",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "W      910-1120",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "UCONJ",
+    "number": "584PLANT TUMOR",
+    "title": "S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "F      400-520",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "UCONJ",
+    "number": "599CLIN RESEARCH",
+    "title": "SEM",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "F      1000-1130",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

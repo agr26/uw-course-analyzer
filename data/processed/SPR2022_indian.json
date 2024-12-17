@@ -1,0 +1,36 @@
+[
+  {
+    "department": "INDN",
+    "number": "499UNDERGRAD RESEARC",
+    "title": "H",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "INDN",
+        "room": "499ADVISOR",
+        "instructor": "FOR FACULTY CODE.",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "INDN",
+    "number": "590STUDIES IN",
+    "title": "INDOLOGY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

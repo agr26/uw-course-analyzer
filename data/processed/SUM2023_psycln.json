@@ -1,0 +1,216 @@
+[
+  {
+    "department": "PSYCLN",
+    "number": "513RES STRAT",
+    "title": "CLIN PSYCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCLN",
+    "number": "572SMNR IN",
+    "title": "CLIN PSYCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCLN",
+    "number": "574IND STDY",
+    "title": "AFFECT SCI",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCLN",
+    "number": "575BEHAVRL NEUROSCIENC",
+    "title": "E",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCLN",
+    "number": "576IND STUDY",
+    "title": "IN COG SCI",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCLN",
+    "number": "577IND STD",
+    "title": "LIFESPAN DEV",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCLN",
+    "number": "580CLIN PRACT",
+    "title": "/COLLOQ",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCLN",
+    "number": "585FIELD WORK",
+    "title": "-CLINICAL",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCLN",
+    "number": "586DBT PRACTICU",
+    "title": "M",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCLN",
+    "number": "589LEARN CLINIC",
+    "title": "PRACT",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCLN",
+    "number": "590PARENT",
+    "title": "-CHILD PRACT",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "PSYCLN",
+    "number": "596ADV CLIN",
+    "title": "PRACTICUM",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUNE",
+        "room": "20",
+        "instructor": "ANDENDS AUGUST 18",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

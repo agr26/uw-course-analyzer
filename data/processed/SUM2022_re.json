@@ -1,0 +1,53 @@
+[
+  {
+    "department": "R E",
+    "number": "250INTRO REAL",
+    "title": "ESTATE",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "361PROP TRANSACTION",
+    "title": "S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "TTh    940-1220",
+        "building": "RE",
+        "room": "250OFFERED",
+        "instructor": "VIA DISTANCE LEARNING,ASYNCHRONOUS & SYNCHRONOUS OPTION",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "R E",
+    "number": "600INDEPNDNT STDY",
+    "title": "/RSCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]

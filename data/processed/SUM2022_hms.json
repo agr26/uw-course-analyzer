@@ -1,0 +1,36 @@
+[
+  {
+    "department": "HMS",
+    "number": "591MEASUREMNT OF",
+    "title": "HIV/TB",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "W      1000-1120",
+        "building": "JUNE",
+        "room": "29",
+        "instructor": "AND JULY 610AM-11:20AM IN HSE 212",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "HMS",
+    "number": "595CAPSTONE I",
+    "title": "I",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "JUN",
+        "room": "28",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

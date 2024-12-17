@@ -1,0 +1,36 @@
+[
+  {
+    "department": "CL AR",
+    "number": "447ARCHY EARLY",
+    "title": "ITALY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "WF",
+        "room": "1000",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "CL AR",
+    "number": "541SEMINAR GRK",
+    "title": "ROM ART",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "M      230-520",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

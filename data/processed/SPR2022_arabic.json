@@ -1,0 +1,199 @@
+[
+  {
+    "department": "ARAB",
+    "number": "103ELEMENTARY ARABI",
+    "title": "C",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "ARAB",
+        "room": "513",
+        "instructor": "A.NOT OPEN TO ACCESS OR NON-MATRICULATED STUDENTS. NO AUDITORS.STUDENTS NOT ATTENDING FIRST DAY OFCLASS WILL BE DROPPED.COURSE MAY NOT BE ADDED IF FIRSTDAY OF CLASS IS MISSED.FINAL EXAMINATION WILL BE SATURDAYIMMEDIATELY FOLLOWING THE LAST DAYOF CLASS..MUST HAVE COMPLETED ARAB 102OR EQUIVALENT WITH A 2.0.NOT OPEN TO NATIVE SPEAKERS OFARABIC. A NATIVE SPEAKER IS DEFINEDAS ANYONE WHO HAS RECEIVEDINSTRUCTION IN SCHOOL THROUGH THESEVENTH GRADE IN THE LANGUAGE",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "ARAB",
+        "room": "513",
+        "instructor": "B.NOT OPEN TO ACCESS OR NON-MATRICULATED STUDENTS.STUDENTS NOT ATTENDING FIRST DAY OFCLASS WILL BE DROPPED..MUST HAVE COMPLETED ARAB 102OR EQUIVALENT WITH A 2.0.COURSE MAY NOT BE ADDED IF FIRSTDAY OF CLASS IS MISSED.FINAL EXAMINATION WILL BE SATURDAYIMMEDIATELY FOLLOWING THE LAST DAYOF CLASS..NOT OPEN TO NATIVE SPEAKERS OFARABIC. A NATIVE SPEAKER IS DEFINEDAS ANYONE WHO HAS RECEIVEDINSTRUCTION IN SCHOOL THROUGH THESEVENTH GRADE IN THE LANGUAGE",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ARAB",
+    "number": "203INTERMED ARABI",
+    "title": "C",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "ARAB",
+        "room": "523A",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ARAB",
+    "number": "403ARAB MEDI",
+    "title": "A",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "ARAB",
+        "room": "543",
+        "instructor": "A.NO ACCESS STUDENTS. NO AUDITORS.FINAL EXAMINATION WILL BE SATURDAYIMMEDIATELY FOLLOWING THE LAST DAYOF CLASS.PREREQ: 2.0 IN ARAB 205, ARAB 423,OR ARAB 424.PREVIOUSLY OFFERED AS ARAB 496\"CURRENT EVENTS IN ARAB MEDIA.\"CANNOT BE TAKEN IF STUDENT HASALREADY TAKEN ARAB 496.SEE INSTRUCTOR FOR ADD CODES.",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ARAB",
+    "number": "411ARABIC THROUGH",
+    "title": "SONG",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ARAB",
+    "number": "490SUPERVISED STUD",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ARAB",
+    "number": "499UNDERGRAD RESEARC",
+    "title": "H",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ARAB",
+    "number": "513ELEMENTARY ARABI",
+    "title": "C",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "ARAB",
+        "room": "103",
+        "instructor": "A.NOT OPEN TO ACCESS OR NON-MATRICULATED STUDENTS. NO AUDITORS.STUDENTS NOT ATTENDING FIRST DAY OFCLASS WILL BE DROPPED.COURSE MAY NOT BE ADDED IF FIRSTDAY OF CLASS IS MISSED.FINAL EXAMINATION WILL BE SATURDAYIMMEDIATELY FOLLOWING THE LAST DAYOF CLASS.",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ARAB",
+    "number": "523INTERMEDIATE ARABI",
+    "title": "C",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "ARAB",
+        "room": "203A",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ARAB",
+    "number": "543ARAB MEDI",
+    "title": "A",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "ARAB",
+        "room": "403",
+        "instructor": "A.FINAL EXAMINATION WILL BE SATURDAYIMMEDIATELY FOLLOWING THE LAST DAYOF CLASS.PREREQ: 2.0 IN ARAB 205, ARAB 423,OR ARAB 424.PREVIOUSLY OFFERED AS ARAB 496\"CURRENT EVENTS IN ARAB MEDIA.\"CANNOT BE TAKEN IF STUDENT HASALREADY TAKEN ARAB 496.SEE INSTRUCTOR FOR ADD CODES.",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ARAB",
+    "number": "551ARABIC THROUGH",
+    "title": "SONG",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "ARAB",
+    "number": "600INDEPNDNT STDY",
+    "title": "/RSCH",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      }
+    ]
+  }
+]

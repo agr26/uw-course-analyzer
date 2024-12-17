@@ -1,0 +1,97 @@
+[
+  {
+    "department": "O S",
+    "number": "550PP",
+    "title": "-DIR STDYS IN O S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "",
+        "additional_info": []
+      },
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "O S",
+    "number": "574CLIN STOMATOLOG",
+    "title": "Y",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "O S",
+    "number": "651OMS ROTATION",
+    "title": "AT HMC",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "TO",
+        "room": "4THYEAR",
+        "instructor": "PREDOCTORAL STUDENTS ONLY.COURSE SCHEDULE:1 FULL WEEK MONDAY - FRIDAY, WITHOPTIONAL WEEKEND. HOURS FLEXIBLE.MINIMUM OF 8 HOURS PER DAY. MAXIMUMIF THE STUDENT WOULD LIKE,DEPENDING ON THE DAY, CALL SCHEDULE(MOST STUDENTS WILL STAY OVERNIGHTFOR FULL CRANIOFACIAL CALL WHICH IS1 NIGHT PER WEEK).1 STUDENT PER WEEK, SUBECT TOAVAILABILITY.",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "O S",
+    "number": "655PEER MENTOR",
+    "title": "O S",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  },
+  {
+    "department": "O S",
+    "number": "664ADV CLN",
+    "title": "ORAL SURGERY",
+    "sections": [
+      {
+        "sln": "",
+        "section_id": "",
+        "times": "",
+        "building": "",
+        "room": "",
+        "instructor": "",
+        "status": "Open",
+        "additional_info": []
+      }
+    ]
+  }
+]
