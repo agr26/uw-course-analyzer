@@ -1,39 +1,35 @@
-// popup.js
-
 class CourseAnalyzerPopup {
     constructor() {
         this.searchInput = document.getElementById('courseSearch');
         this.courseDisplay = document.getElementById('courseDisplay');
         this.initializeEventListeners();
-        this.loadActiveTabCourse();
     }
 
     initializeEventListeners() {
-        this.searchInput.addEventListener('input', () => this.handleSearch());
-
-        // Listen for messages from content script
-        chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
-            if (message.type === 'COURSE_SELECTED') {
-                this.displayCourseInfo(message.courseCode);
-            }
+        // Add input event listener with debouncing
+        let timeout = null;
+        this.searchInput.addEventListener('input', () => {
+            clearTimeout(timeout);
+            timeout = setTimeout(() => this.handleSearch(), 300);
         });
-    }
-
-    async loadActiveTabCourse() {
-        // Check if we're on MyPlan and get selected course
-        const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
-        if (tab.url.includes('washington.edu/myplan')) {
-            chrome.tabs.sendMessage(tab.id, { type: 'GET_SELECTED_COURSE' });
-        }
     }
 
     async handleSearch() {
         const query = this.searchInput.value.trim().toUpperCase();
-        if (query.length < 3) return;
+        if (query.length < 3) {
+            this.courseDisplay.innerHTML = '';
+            return;
+        }
 
         const courseCode = this.normalizeCourseCode(query);
-        if (courseCode) {
-            await this.displayCourseInfo(courseCode);
+        if (courseCode && courseData[courseCode]) {
+            this.displayCourseInfo(courseCode);
+        } else {
+            this.courseDisplay.innerHTML = `
+                <div class="course-info">
+                    <p>No data found for ${query}</p>
+                </div>
+            `;
         }
     }
 
@@ -43,16 +39,9 @@ class CourseAnalyzerPopup {
         return match ? `${match[1]}${match[2]}` : null;
     }
 
-    async displayCourseInfo(courseCode) {
-        const courseInfo = await this.fetchCourseInfo(courseCode);
-        if (!courseInfo) {
-            this.courseDisplay.innerHTML = `
-                <div class="course-info">
-                    <p>No data found for ${courseCode}</p>
-                </div>
-            `;
-            return;
-        }
+    displayCourseInfo(courseCode) {
+        const courseInfo = courseData[courseCode];
+        if (!courseInfo) return;
 
         this.courseDisplay.innerHTML = `
             <div class="course-info">
@@ -70,8 +59,8 @@ class CourseAnalyzerPopup {
 
                 <div class="workload-info">
                     <h4>Course Information</h4>
-                    <p>Credits: ${courseInfo.credits}</p>
-                    <p>Average Workload: ${this.getWorkloadDescription(courseInfo)}</p>
+                    <p>Total Offerings: ${Object.keys(courseInfo.offerings).length}</p>
+                    <p>Most Recent: ${this.getMostRecentOffering(courseInfo.offerings)}</p>
                 </div>
             </div>
         `;
@@ -82,14 +71,18 @@ class CourseAnalyzerPopup {
         return quarters.map(quarter => `
             <div class="quarter-stat">
                 <div class="quarter-label">${quarter}</div>
-                <div class="probability ${this.getProbabilityClass(patterns.frequency[quarter])}">
-                    ${this.formatProbability(patterns.frequency[quarter])}
+                <div class="probability ${this.getProbabilityClass(patterns.offeringQuarters.includes(quarter))}">
+                    ${patterns.offeringQuarters.includes(quarter) ? "Offered" : "Not offered"}
                 </div>
             </div>
         `).join('');
     }
 
     renderTimePatterns(times) {
+        if (!times || Object.keys(times).length === 0) {
+            return '<p>No time pattern data available</p>';
+        }
+
         return Object.entries(times)
             .map(([days, slots]) => `
                 <div class="time-slot">
@@ -99,41 +92,17 @@ class CourseAnalyzerPopup {
             `).join('');
     }
 
-    getProbabilityClass(prob) {
-        if (prob > 0.7) return 'high';
-        if (prob > 0.3) return 'medium';
-        return 'low';
+    getProbabilityClass(offered) {
+        return offered ? 'high' : 'low';
     }
 
-    formatProbability(prob) {
-        if (prob > 0.9) return "Very Likely";
-        if (prob > 0.7) return "Likely";
-        if (prob > 0.3) return "Possible";
-        return "Unlikely";
-    }
-
-    getWorkloadDescription(courseInfo) {
-        // Calculate workload based on credits and historical data
-        const avgWorkload = courseInfo.offerings.reduce((sum, o) => 
-            sum + (o.averageWorkload === "heavy" ? 3 : o.averageWorkload === "medium" ? 2 : 1), 0
-        ) / courseInfo.offerings.length;
-
-        if (avgWorkload > 2.5) return "Heavy";
-        if (avgWorkload > 1.5) return "Medium";
-        return "Light";
-    }
-
-    async fetchCourseInfo(courseCode) {
-        return new Promise(resolve => {
-            chrome.runtime.sendMessage(
-                { type: 'GET_COURSE_INFO', courseCode },
-                response => resolve(response)
-            );
-        });
+    getMostRecentOffering(offerings) {
+        const quarters = Object.keys(offerings).sort().reverse();
+        return quarters[0] || 'No recent offerings';
     }
 }
 
-// Initialize popup
+// Initialize popup when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
     new CourseAnalyzerPopup();
 });
