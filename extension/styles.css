@@ -1,0 +1,57 @@
+.historical-info {
+    margin-top: 8px;
+    padding: 8px;
+    border-radius: 4px;
+    background: #f5f5f5;
+    font-size: 12px;
+}
+
+.offering-probability {
+    margin-bottom: 4px;
+}
+
+.offering-probability.high { color: #2e7d32; }
+.offering-probability.medium { color: #f57c00; }
+.offering-probability.low { color: #c62828; }
+
+.time-conflict-warning {
+    margin-top: 8px;
+    padding: 8px;
+    background: #fff3e0;
+    border-left: 4px solid #f57c00;
+    font-size: 12px;
+}
+
+.workload-indicator {
+    margin-top: 8px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+}
+
+.workload-indicator.light { background: #e8f5e9; }
+.workload-indicator.medium { background: #fff3e0; }
+.workload-indicator.heavy { background: #ffebee; }
+
+.quarter-workload-warning {
+    margin: 8px 0;
+    padding: 12px;
+    background: #ffebee;
+    border-radius: 4px;
+    border-left: 4px solid #c62828;
+}
+
+.warning-icon {
+    margin-right: 4px;
+}
+
+.warning-details {
+    margin-top: 4px;
+    font-size: 11px;
+    color: #666;
+}
+
+.label {
+    font-weight: 500;
+    margin-right: 4px;
+}

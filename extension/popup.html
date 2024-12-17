@@ -1,0 +1,116 @@
+<!-- popup.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>UW Course Analyzer</title>
+    <style>
+        body {
+            width: 400px;
+            padding: 16px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        }
+
+        .header {
+            margin-bottom: 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .header h1 {
+            color: #4b2e83; /* UW Purple */
+            font-size: 18px;
+            margin: 0;
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        .course-info {
+            margin-bottom: 16px;
+            padding: 12px;
+            background: #f5f5f5;
+            border-radius: 4px;
+        }
+
+        .offering-pattern {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 8px;
+            margin-top: 8px;
+        }
+
+        .quarter-stat {
+            text-align: center;
+            padding: 8px;
+            background: white;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+        }
+
+        .quarter-label {
+            font-weight: 500;
+            color: #4b2e83;
+        }
+
+        .probability {
+            font-size: 14px;
+            margin-top: 4px;
+        }
+
+        .high { color: #2e7d32; }
+        .medium { color: #f57c00; }
+        .low { color: #c62828; }
+
+        .time-patterns {
+            margin-top: 16px;
+        }
+
+        .time-slot {
+            display: flex;
+            justify-content: space-between;
+            padding: 4px 0;
+        }
+
+        .workload-info {
+            margin-top: 16px;
+            padding: 12px;
+            background: white;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+        }
+
+        .tip {
+            margin-top: 16px;
+            padding: 8px;
+            background: #e8f5e9;
+            border-radius: 4px;
+            font-size: 13px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>UW Course Analyzer</h1>
+    </div>
+
+    <input type="text" 
+           class="search-box" 
+           placeholder="Search for a course (e.g., CSE 142)"
+           id="courseSearch">
+
+    <div id="courseDisplay">
+        <!-- Course information will be displayed here -->
+    </div>
+
+    <div class="tip">
+        💡 Pro tip: Click on a course in MyPlan to see detailed historical data
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>

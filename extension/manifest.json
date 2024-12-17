@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "UW Course Analyzer",
+    "version": "1.0",
+    "description": "Historical course information for UW MyPlan",
+    "permissions": [
+      "storage",
+      "activeTab"
+    ],
+    "host_permissions": [
+      "*://*.washington.edu/*"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["*://*.washington.edu/myplan/*"],
+        "js": ["content.js"],
+        "css": ["styles.css"]
+      }
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
